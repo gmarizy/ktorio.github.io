@@ -122,7 +122,7 @@ val call = client.request<String> {
 {: #submit-form }
 
 There are a couple of convenience extension methods for submitting form information.
-The detailed refrence is listed [here](https://api.ktor.io/{{ site.ktor_version }}/io.ktor.client.request.forms/).
+The detailed reference is listed [here](https://api.ktor.io/{{ site.ktor_version }}/io.ktor.client.request.forms/).
 
 The `submitForm` method:
 
